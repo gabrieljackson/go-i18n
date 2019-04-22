@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/BurntSushi/toml"
-	"github.com/nicksnyder/go-i18n/v2/internal"
+	"github.com/mattermost/go-i18n/v2/internal"
 	"golang.org/x/text/language"
 	yaml "gopkg.in/yaml.v2"
 )

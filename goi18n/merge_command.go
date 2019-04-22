@@ -11,9 +11,9 @@ import (
 
 	"gopkg.in/yaml.v2"
 
-	"github.com/nicksnyder/go-i18n/i18n/bundle"
-	"github.com/nicksnyder/go-i18n/i18n/language"
-	"github.com/nicksnyder/go-i18n/i18n/translation"
+	"github.com/mattermost/go-i18n/i18n/bundle"
+	"github.com/mattermost/go-i18n/i18n/language"
+	"github.com/mattermost/go-i18n/i18n/translation"
 	toml "github.com/pelletier/go-toml"
 )
 
